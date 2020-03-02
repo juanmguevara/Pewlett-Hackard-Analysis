@@ -61,3 +61,7 @@ Results: A few folks are are appearing twice. Maybe they moved departments?
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Sales%20%26%20Development%20Team%20Employee%20Information%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Sales%20%26%20Development%20Team%20Employee%20Information%20Output.PNG)
+
+## Challenge
+
+
