@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-## Summary
+### Summary
 In our Pewlett Hackard analysis, we created an Entity Relation Diagram (ERD) with the provided data: Departments, Department Employees, Department Manager, Employees, Titles, and Salaries. Creating the ERD helped us see relationships between each data set. These key factors helped us import and handle the data in SQL phAdmin 4.
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png.png)
@@ -43,17 +43,15 @@ List of Managers the company know what manager oversees blank department. The on
 
 # 
 
+Department Information is another query created in order to give an in-depth overview of which employee is working in blank department. One issue found in this data set was that a few employees were appearing twice which could mean that the employee could have been moved from one department to the next. This is another question that Bobby will need to bring up to his manager.
+
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Department%20Information%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Department%20Information%20Output.PNG)
 
-Results: A few folks are are appearing twice. Maybe they moved departments?
--- Questions:
--- What’s going on with the salaries?
--- Why are there only five active managers for nine departments?
--- Why are some employees appearing twice?
-
 # 
+
+Sales Team Employee Retirement Information table is a list containing all the sales team employee information: Employment Number, First Name, Last Name, Department (Sales Only). This can be a useful tool for the sales team, so they know who is becoming eligible for retirement.
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Sales%20Team%20Employee%20Information%20Query.PNG)
 
@@ -61,17 +59,25 @@ Results: A few folks are are appearing twice. Maybe they moved departments?
 
 # 
 
+Combining both the sales & development team employee retirement information in order to get a list of names of people who are eligible for the mentoring program, so that they do not retire completely, and instead work part time helping the new hires.
+
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Sales%20%26%20Development%20Team%20Employee%20Information%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Sales%20%26%20Development%20Team%20Employee%20Information%20Output.PNG)
 
 ## Challenge
 
+### Summary
+We were asked to create a list that contains potential mentors from the company’s current employees list who are eligible for retirement, as well as their most recent titles.
+
+
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Titles%20Retirement%20Information%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Titles%20Retirement%20Information%20Output.PNG)
 
 #
+
+Using our retirement information list and combining that with the titles and salaries list we were able to obtain a list containing current employees who are eligible for retirement, noting their title. Furthering our analysis on this data set we can see that there are multiple duplicates in our list, which we will need to remove. After removing the duplicates from our data set, we ended up with 40,975 unique employees who are ready to be considered in the mentoring program. All employees in our list of data only shows their most recent title.
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Counts%20the%20Duplicates%20Query.PNG)
 
@@ -88,6 +94,8 @@ Results: A few folks are are appearing twice. Maybe they moved departments?
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Removing%20Duplicates%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Removing%20Duplicates%20Output.PNG)
+
+#
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Mentor%20List%20Query.PNG)
 
