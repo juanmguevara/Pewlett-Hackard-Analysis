@@ -64,7 +64,7 @@ Combining both the sales & development team employee retirement information in o
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Sales%20%26%20Development%20Team%20Employee%20Information%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Sales%20%26%20Development%20Team%20Employee%20Information%20Output.PNG)
-
+#
 # Challenge
 
 ### Summary
