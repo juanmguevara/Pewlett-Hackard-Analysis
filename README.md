@@ -13,8 +13,6 @@ Using the employee data set we were able to apply various conditions for retirem
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Retirement%20Employees%20Output.PNG)
 
-# 
-
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Current%20Employees%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Current%20Employees%20Output.PNG)
