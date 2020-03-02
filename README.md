@@ -64,4 +64,28 @@ Results: A few folks are are appearing twice. Maybe they moved departments?
 
 ## Challenge
 
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Titles%20Retirement%20Information%20Query.PNG)
 
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Titles%20Retirement%20Information%20Output.PNG)
+
+#
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Counts%20the%20Duplicates%20Query.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Counts%20the%20Duplicates%20Output.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Counting%20how%20many%20employees%20share%20the%20same%20title.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Counting%20how%20many%20employees%20share%20the%20same%20title%20Output.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Display%20duplicate%20rows%20with%20all%20info%20Query.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Display%20duplicate%20rows%20with%20all%20info%20Output.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Removing%20Duplicates%20Query.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Removing%20Duplicates%20Output.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Mentor%20List%20Query.PNG)
+
+![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Mentor%20List%20Output.PNG)
