@@ -7,6 +7,8 @@ In our Pewlett Hackard analysis, we created an Entity Relation Diagram (ERD) wit
 
 # 
 
+Using the employee data set we were able to apply various conditions for retirement eligibility helping us narrow down which employee is eligible for retirement. Here we got that there are 41,380 rows off employees who are eligible. This lets us know how many new open spaces will be available for new employees and new promotions for the following year.
+
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Current%20Employees%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Retirement%20Employees%20Output.PNG)
@@ -17,7 +19,6 @@ In our Pewlett Hackard analysis, we created an Entity Relation Diagram (ERD) wit
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Current%20Employees%20Output.PNG)
 
-Using the employee data set we were able to apply various conditions for retirement eligibility helping us narrow down which employee is eligible for retirement. Here we got that there are 41,380 rows off employees who are eligible. This lets us know how many new open spaces will be available for new employees and new promotions for the following year.
 # 
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Employee%20Count%20Per%20Department%20Query.PNG)
