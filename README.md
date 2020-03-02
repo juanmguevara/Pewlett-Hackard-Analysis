@@ -27,18 +27,19 @@ Furthering our analysis, we counted the number of employees in each department t
 
 # 
 
+The Employee information table can help the company analyze their entire existing employment group. Which can be order by employee number or salary. Theses are important features when figuring out how long an employee has been with a company or what the a particular employee is costing the company each year.
+
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Employee%20Information%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Employee%20Information%20Output.PNG)
 
 # 
 
+List of Managers the company know what manager oversees blank department. The one this that is a bit odd in this final output of the data is that there are only 5 managers for 9 different departments. Which means either there are no managers for the other remaining 4 departments or we have these five managers also managing other departments off the record. This is a question which Bobby will need to ask his manager.
+
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Manager%20Information%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Manager%20Information%20Output.PNG)
-
-How could only five departments have active managers? 
-This is another question Bobby will need to ask his manager.
 
 # 
 
