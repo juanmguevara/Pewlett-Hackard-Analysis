@@ -97,7 +97,7 @@ Using our retirement information list and combining that with the titles and sal
 
 #
 
-Now that we know how many employees are retiring and are eligible for the mentorship program, we need to figure out which employees are ready to get a mentor. The most recent employees will be eligible for this program.
+Now that we know how many employees are retiring and are eligible for the mentorship program, we need to figure out which employees are ready to get a mentor. The most recent employees will be eligible for this program. After creating this query, we were able to get that there are 1,549 employees who are eligible to receive the benefits from this program!
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots%20for%20Challenge/Mentor%20List%20Query.PNG)
 
