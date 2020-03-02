@@ -19,6 +19,8 @@ Using the employee data set we were able to apply various conditions for retirem
 
 # 
 
+Furthering our analysis, we counted the number of employees in each department to see how big of a size is each department. This can help the company figure out where they need to add more resources or where they could potentially cut employment if needed.
+
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Employee%20Count%20Per%20Department%20Query.PNG)
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Employee%20Count%20Per%20Department%20Output.PNG)
