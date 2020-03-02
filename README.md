@@ -65,7 +65,7 @@ Combining both the sales & development team employee retirement information in o
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Sales%20%26%20Development%20Team%20Employee%20Information%20Output.PNG)
 
-## Challenge
+# Challenge
 
 ### Summary
 We were asked to create a list that contains potential mentors from the company’s current employees list who are eligible for retirement, as well as their most recent titles.
