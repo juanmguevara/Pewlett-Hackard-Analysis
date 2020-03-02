@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Summary
-In our Pewlett Hackard analysis, we created an Entity Relation Diagram (ERD) with the provided data: Departments, Department Employees, Department Manager, Employees, Titles, and Salaries. Creating the ERD helped us see relationships between each data set. These key factors helped us import and handle the data in SQL phAdmin 4. Using the employee data set we were able to apply various conditions for retirement eligibility helping us narrow down which employee is eligible for retirement. Here we got that there are 41,380 rows off employees who are eligible. 
+In our Pewlett Hackard analysis, we created an Entity Relation Diagram (ERD) with the provided data: Departments, Department Employees, Department Manager, Employees, Titles, and Salaries. Creating the ERD helped us see relationships between each data set. These key factors helped us import and handle the data in SQL phAdmin 4.
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png.png)
 
@@ -17,6 +17,7 @@ In our Pewlett Hackard analysis, we created an Entity Relation Diagram (ERD) wit
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Current%20Employees%20Output.PNG)
 
+Using the employee data set we were able to apply various conditions for retirement eligibility helping us narrow down which employee is eligible for retirement. Here we got that there are 41,380 rows off employees who are eligible. This lets us know how many new open spaces will be available for new employees and new promotions for the following year.
 # 
 
 ![](https://github.com/juanmguevara/Pewlett-Hackard-Analysis/blob/master/ScreenShots/Employee%20Count%20Per%20Department%20Query.PNG)
